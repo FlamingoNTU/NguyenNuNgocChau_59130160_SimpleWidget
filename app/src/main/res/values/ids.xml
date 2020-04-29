@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="edtSoThich" type="id" />
+    <item name="edtTen" type="id" />
+    <item name="edtNgaySinh" type="id" />
+    <item name="rgbGioiTinh" type="id" />
+    <item name="rbNam" type="id" />
+    <item name="rbNu" type="id" />
+    <item name="cbXemPhim" type="id" />
+    <item name="cbNgheNhac" type="id" />
+    <item name="cbCafe" type="id" />
+    <item name="cbONha" type="id" />
+    <item name="cbNauAn" type="id" />
+</resources>
